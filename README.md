@@ -1,5 +1,7 @@
 # vue-chatkit
 
+### [View the demo](https://skaptox.github.io/vue-chatkit/)
+
 ## Project setup
 ```
 yarn install
